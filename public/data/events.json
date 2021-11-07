@@ -1,0 +1,139 @@
+{ 
+    "events": [
+    {
+    "id": 6237,
+    "event_key": "l.nhl.com-e.20210233",
+    "name": "NYI  v Fla ",
+    "event_date": "2021-11-16",
+    "event_time": "19:00:00",
+    "home_team": {
+    "id": 9,
+    "team_key": "l.nhl.com-t.10",
+    "team_gaa": 2.45,
+    "team_gaa_rank": 7,
+    "name": "Florida Panthers",
+    "abbreviation": "Fla",
+    "actual_score": 0,
+    "guessing_score": "2.575512"
+    },
+    "away_team": {
+    "id": 14,
+    "team_key": "l.nhl.com-t.2",
+    "team_gaa": "40",
+    "team_gaa_rank": 1,
+    "name": "New York Islanders",
+    "abbreviation": "NYI",
+    "actual_score": 0,
+    "guessing_score": "2.17545"
+    }
+    },
+    {
+    "id": 6450,
+    "event_key": "l.nhl.com-e.20210234",
+    "name": "Ott  v NJ ",
+    "event_date": "2021-11-16",
+    "event_time": "19:00:00",
+    "home_team": {
+    "id": 13,
+    "team_key": "l.nhl.com-t.1",
+    "team_gaa": 3,
+    "team_gaa_rank": 21,
+    "name": "New Jersey Devils",
+    "abbreviation": "NJ",
+    "actual_score": 0,
+    "guessing_score": "2.201306"
+    },
+    "away_team": {
+    "id": 16,
+    "team_key": "l.nhl.com-t.14",
+    "team_gaa": "59",
+    "team_gaa_rank": 19,
+    "name": "Ottawa Senators",
+    "abbreviation": "Ott",
+    "actual_score": 0,
+    "guessing_score": "3.704424"
+    }
+    },
+    {
+    "id": 6504,
+    "event_key": "l.nhl.com-e.20210235",
+    "name": "Mtl  v NYR ",
+    "event_date": "2021-11-16",
+    "event_time": "19:00:00",
+    "home_team": {
+    "id": 15,
+    "team_key": "l.nhl.com-t.3",
+    "team_gaa": 2.6,
+    "team_gaa_rank": 11,
+    "name": "New York Rangers",
+    "abbreviation": "NYR",
+    "actual_score": 0,
+    "guessing_score": "3.626388"
+    },
+    "away_team": {
+    "id": 12,
+    "team_key": "l.nhl.com-t.13",
+    "team_gaa": "68",
+    "team_gaa_rank": 28,
+    "name": "Montreal Canadiens",
+    "abbreviation": "Mtl",
+    "actual_score": 0,
+    "guessing_score": "3.365469"
+    }
+    },
+    {
+    "id": 6612,
+    "event_key": "l.nhl.com-e.20210236",
+    "name": "Cgy  v Phi ",
+    "event_date": "2021-11-16",
+    "event_time": "19:00:00",
+    "home_team": {
+    "id": 17,
+    "team_key": "l.nhl.com-t.4",
+    "team_gaa": 3.1,
+    "team_gaa_rank": 23,
+    "name": "Philadelphia Flyers",
+    "abbreviation": "Phi",
+    "actual_score": 0,
+    "guessing_score": "2.796695"
+    },
+    "away_team": {
+    "id": 4,
+    "team_key": "l.nhl.com-t.28",
+    "team_gaa": "48",
+    "team_gaa_rank": 5,
+    "name": "Calgary Flames",
+    "abbreviation": "Cgy",
+    "actual_score": 0,
+    "guessing_score": "2.973528"
+    }
+    },
+    {
+    "id": 6655,
+    "event_key": "l.nhl.com-e.20210237",
+    "name": "Buf  v Pit ",
+    "event_date": "2021-11-16",
+    "event_time": "19:00:00",
+    "home_team": {
+    "id": 18,
+    "team_key": "l.nhl.com-t.5",
+    "team_gaa": 2.8,
+    "team_gaa_rank": 13,
+    "name": "Pittsburgh Penguins",
+    "abbreviation": "Pit",
+    "actual_score": 0,
+    "guessing_score": "4.407787"
+    },
+    "away_team": {
+    "id": 3,
+    "team_key": "l.nhl.com-t.12",
+    "team_gaa": "70",
+    "team_gaa_rank": 30,
+    "name": "Buffalo Sabres",
+    "abbreviation": "Buf",
+    "actual_score": 0,
+    "guessing_score": "2.614032"
+    }
+    }
+    ]
+}
