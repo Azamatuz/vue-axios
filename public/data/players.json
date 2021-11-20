@@ -1,6 +1,5 @@
 {
-    "players": [
-        {
+    "players": [{
         "id": 6655,
         "season-id": 2021,
         "name": "Buf  v Pit ",
@@ -31,7 +30,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 0, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -68,7 +67,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 0, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -105,7 +104,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 0, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -142,7 +141,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 0, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -179,7 +178,7 @@
                             "scaling_factor": 0.9508995,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 2, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 7, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -216,7 +215,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 0, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -253,7 +252,7 @@
                             "scaling_factor": 0.9509002,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 1, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 11, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -290,7 +289,7 @@
                             "scaling_factor": 0.9508998,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 1, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 17, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -327,7 +326,7 @@
                             "scaling_factor": 0.9508998,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 4, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -364,7 +363,7 @@
                             "scaling_factor": 0.9509004,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 3, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -401,7 +400,7 @@
                             "scaling_factor": 0.9509017,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 1, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 3, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -438,7 +437,7 @@
                             "scaling_factor": 0.9509001,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 3, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 10, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -475,7 +474,7 @@
                             "scaling_factor": 0.9508998,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 1, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 9, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -512,7 +511,7 @@
                             "scaling_factor": 0.9509,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 26, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -549,7 +548,7 @@
                             "scaling_factor": 0.9508995,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 5, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -586,7 +585,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 1, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 0, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -623,7 +622,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 0, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -660,7 +659,7 @@
                             "scaling_factor": 0.9508997,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 1, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 14, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -697,7 +696,7 @@
                             "scaling_factor": 0.9208715,
                             "boost": -7.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 5, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 19, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -734,7 +733,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 0, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -771,7 +770,7 @@
                             "scaling_factor": 0.9509001,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 7, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -808,7 +807,7 @@
                             "scaling_factor": 0.9509002,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 2, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 12, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -845,7 +844,7 @@
                             "scaling_factor": 0.9508998,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 4, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 20, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -882,7 +881,7 @@
                             "scaling_factor": 0.9509,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 1, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 23, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -919,7 +918,7 @@
                             "scaling_factor": 0.9508998,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 4, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -956,7 +955,7 @@
                             "scaling_factor": 0.9509004,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 6, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -993,7 +992,7 @@
                             "scaling_factor": 0.9508999,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 15, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -1030,7 +1029,7 @@
                             "scaling_factor": 0.950898,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 1, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -1067,7 +1066,7 @@
                             "scaling_factor": 0.9508999,
                             "boost": -4.91
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 1, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 16, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -1104,7 +1103,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 73, \"goals-scored\": 0, \"opponent-gaa\": 2.9, \"predicted-goals-season\": 0, \"scaling-factor\": 1.0845287, \"upcoming-opponents-gaa\": 2.6739726}",
                             "scaling_factor": 1.0845287,
                             "boost": 8.45
@@ -1129,7 +1128,7 @@
                 }
             ]
         },
-        "home-team": {
+        "home_team": {
             "id": 18,
             "team_key": "l.nhl.com-t.5",
             "team_gaa": 2.9,
@@ -1152,7 +1151,7 @@
                             "scaling_factor": 1.1772728,
                             "boost": 17.73
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 35, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1189,7 +1188,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 0, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1226,7 +1225,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 0, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1263,7 +1262,7 @@
                             "scaling_factor": 1.0525785,
                             "boost": 5.26
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 3, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1300,7 +1299,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 2, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 0, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1337,7 +1336,7 @@
                             "scaling_factor": 1.4949494,
                             "boost": 49.49
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 1, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 22, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1374,7 +1373,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 0, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1411,7 +1410,7 @@
                             "scaling_factor": 1.0525785,
                             "boost": 5.26
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 18, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1448,7 +1447,7 @@
                             "scaling_factor": 1.052579,
                             "boost": 5.26
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 10, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1485,7 +1484,7 @@
                             "scaling_factor": 1.052579,
                             "boost": 5.26
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 10, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1522,7 +1521,7 @@
                             "scaling_factor": 1.0525788,
                             "boost": 5.26
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 8, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1559,7 +1558,7 @@
                             "scaling_factor": 1.0525786,
                             "boost": 5.26
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 3, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 26, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1596,7 +1595,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 3, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 0, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1633,7 +1632,7 @@
                             "scaling_factor": 1.1746032,
                             "boost": 17.46
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 1, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 26, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1670,7 +1669,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 0, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1707,7 +1706,7 @@
                             "scaling_factor": 1.0525785,
                             "boost": 5.26
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 1, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 7, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1744,7 +1743,7 @@
                             "scaling_factor": 1.0525785,
                             "boost": 5.26
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 2, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 17, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1781,7 +1780,7 @@
                             "scaling_factor": 1.0525792,
                             "boost": 5.26
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 2, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 9, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1818,7 +1817,7 @@
                             "scaling_factor": 0.9192545,
                             "boost": -8.07
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 24, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1855,7 +1854,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 0, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1892,7 +1891,7 @@
                             "scaling_factor": 0.5066955,
                             "boost": -49.33
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 1, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 34, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1929,7 +1928,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 0, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -1966,7 +1965,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 1, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 0, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -2003,7 +2002,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 1, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 0, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -2040,7 +2039,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 0, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -2077,7 +2076,7 @@
                             "scaling_factor": 1.0525785,
                             "boost": 5.26
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 3, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -2114,7 +2113,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 0, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 0, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -2151,7 +2150,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 4, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 0, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -2188,7 +2187,7 @@
                             "scaling_factor": 1.0525792,
                             "boost": 5.26
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 1, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 8, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -2225,7 +2224,7 @@
                             "scaling_factor": 0,
                             "boost": -100
                         },
-                        "goals-against-average": {
+                        "goals_against_average": {
                             "intermediate_values": "{\"games-left\": 74, \"goals-scored\": 3, \"opponent-gaa\": 3.1, \"predicted-goals-season\": 0, \"scaling-factor\": 1.1393097, \"upcoming-opponents-gaa\": 2.7209459}",
                             "scaling_factor": 1.1393097,
                             "boost": 13.93
@@ -2250,7 +2249,6 @@
                 }
             ]
         }
-        }
-    ]
+    }]
 
 }

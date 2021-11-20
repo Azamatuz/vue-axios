@@ -3,10 +3,16 @@
     <div class="card text-center m-3">
     <h5 class="card-header">Games List</h5>
             <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">#</th>
+                  <th scope="col" class="text-end pe-5">Guessing Score</th>
+                </tr>
+              </thead>
             <tr v-for='(game, index) in games' :key="index">
                 <td>{{ index + 1}}</td>
                 <td>
-                    <table class="table">
+                    <table class="table table-borderless">
                         <tr>
                             <td>Home</td>
                             <td>{{ game.home_team.name }}</td>
@@ -22,8 +28,12 @@
             </tr>
         </table>
   </div>
+  <!-- <div v-for="(player, index) in players" :key="index">
+    {{ player.home_team.players }}
+  </div> -->
+
     <!-- <player-list :player="playerList" /> -->
-    <div class="card text-center m-3">
+    <!-- <div class="card text-center m-3">
     <h5 class="card-header">Players List</h5>
            <div class="row">
     <div class="col-6">
@@ -67,7 +77,7 @@
           </table>
     </div>
 </div>
-  </div>
+  </div> -->
   </div>
 </template>
 
@@ -79,7 +89,7 @@ export default {
 
   data () {
     return {
-      players: [],
+      players: null,
       games: null
     }
   },
